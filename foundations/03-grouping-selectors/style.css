@@ -3,10 +3,10 @@
     font-family: Helvetica, 'Time New Roman', sans-serif;
 }
 
-.both .first {
+.first {
     background-color: #000000;
     color: #ffffff;
 }
-.both .second {
+.second {
     background-color: #ffff00;
 }
